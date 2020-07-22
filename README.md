@@ -13,7 +13,7 @@ Apart from panicking over the disturbed alignment of text in a document, I am in
 - Content Writer
 
 
-<img src = "https://github-readme-stats.vercel.app/api?username=divya2399&&show_icons=true&title_color=44d9e6&icon_color=bb2acf&text_color=000000&bg_color=ffffff"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=divya2399&&show_icons=true&title_color=2db6c2&icon_color=269bbf&text_color=000000&bg_color=ffffff"/>
 
 
 
