@@ -1,4 +1,4 @@
-### Hi there! I am Divya Sharma 👋
+## Hi there! I am Divya Sharma 👋
 
 <!--
 **divya2399/divya2399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
